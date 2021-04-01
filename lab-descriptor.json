@@ -3,52 +3,52 @@
     "name": "Electrical Engineering",
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
-  "lab": "Process Loop Component and Control Valve for various Applications",
+  "lab": "Process Loop Component and Control Valve for Various Applications",
   "phase": 3,
   "collegeName": "coep",
   "baseUrl": "plccom-coep.vlabs.ac.in",
-  "introduction": "Welcome to the Process Loop Component and Control Valve for various Applications developed at CoEP. The main purpose of this laboratory is to make the students aware of the various process loop components and control valve applications used in the industry. These components are the backbone of the industry. The working and configuration of these components require high-level skills and due to the cost of these instruments, no college can afford to have these for experimentation. Moreover, the calibration and maintenance required to continuously keep these instruments up and running are also tedious. This is an attempt to virtualize these instruments for thorough understanding.",
+  "introduction": "Welcome to the Process Loop Component and Control Valve for Various Applications developed at CoEP. The main purpose of this laboratory is to make the students aware of the various process loop components and control valve applications used in the industry. These components are the backbone of the industry. The working and configuration of these components require high-level skills and due to the cost of these instruments, no college can afford to have these for experimentation. Moreover, the calibration and maintenance required to continuously keep these instruments up and running are also tedious. This is an attempt to virtualize these instruments for thorough understanding.",
   "experiments": [
     {
       "name": "Size and select a pneumatically operated control valve for a particular application",
       "short-name": "pneumatically-operated-control",
       "repo": "https://github.com/virtual-labs/exp-pneumatically-operated-control-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Configure a Transmitter for a particular process application",
       "short-name": "transmitter-particular-process",
       "repo": "https://github.com/virtual-labs/exp-transmitter-particular-process-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of current to pneumatic converter",
       "short-name": "current-pneumatic-converter",
       "repo": "https://github.com/virtual-labs/exp-current-pneumatic-converter-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of pneumatic to current converter",
       "short-name": "pneumatic-current-converter",
       "repo": "https://github.com/virtual-labs/exp-pneumatic-current-converter-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Design High/Low selector for interlocking in the process industry",
       "short-name": "high-low-selector",
       "repo": "https://github.com/virtual-labs/exp-high-low-selector-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Design an alarm annunciator",
       "short-name": "alarm-annunciator",
       "repo": "https://github.com/virtual-labs/exp-alarm-annunciator-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.3",
       "deploy": true
     }
   ],
@@ -60,7 +60,7 @@
       "MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."
     ]
   },
-  "objective": "1.Configure the process loop component and control valve understudy 2.Analyse the effects of configurable parameters on the performance of the component and valve under test 3.Select the appropriate component as regards span, linearity, accuracy, and damping for the application. 4.Identify the faults in the component and rectify the same. ",
+  "objective": "1. Configure the process loop component and control valve understudy <br/>2. Analyse the effects of configurable parameters on the performance of the component and valve under test <br/>3. Select the appropriate component as regards span, linearity, accuracy, and damping for the application. <br/>4. Identify the faults in the component and rectify the same. ",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the Process Loop Component and Control Valve for various Applications course of various universities to considerable extent.",
     "universities": [
@@ -71,5 +71,57 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v1.0.0"
+  "version": "v1.0.3",
+  "exp_name": "Design an alarm annunciator",
+  "exp_short_name": "alarm-annunciator",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pretest"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Posttest"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ]
 }
