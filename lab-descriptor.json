@@ -71,7 +71,7 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v1.1.0",
+  "version": "v1.2.0",
   "exp_name": "Design an alarm annunciator",
   "exp_short_name": "alarm-annunciator",
   "production": true,
