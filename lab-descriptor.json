@@ -20,21 +20,21 @@
       "name": "Configure a Transmitter for a particular process application",
       "short-name": "transmitter-particular-process",
       "repo": "https://github.com/virtual-labs/exp-transmitter-particular-process-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of current to pneumatic converter",
       "short-name": "current-pneumatic-converter",
       "repo": "https://github.com/virtual-labs/exp-current-pneumatic-converter-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
       "name": "Calibration and fault finding of pneumatic to current converter",
       "short-name": "pneumatic-current-converter",
       "repo": "https://github.com/virtual-labs/exp-pneumatic-current-converter-coep",
-      "tag": "v1.0.2",
+      "tag": "v1.1.0",
       "deploy": true
     },
     {
