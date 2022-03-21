@@ -4,6 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
   "lab": "Process Loop Component and Control Valve for Various Applications",
+  "lab_display_name":"Process Loop Component and Control Valve for Various Applications",
   "phase": 3,
   "collegeName": "coep",
   "baseUrl": "plccom-coep.vlabs.ac.in",
