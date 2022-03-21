@@ -4,7 +4,7 @@
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
   "lab": "Process Loop Component and Control Valve for Various Applications",
-  "lab_display_name":"Process Loop Component and Control Valve for Various Applications",
+  "lab_display_name": "Process Loop Component and Control Valve for Various Applications",
   "phase": 3,
   "collegeName": "coep",
   "baseUrl": "plccom-coep.vlabs.ac.in",
@@ -72,7 +72,7 @@
       "Institute having Instrumentation and control department"
     ]
   },
-  "version": "v1.3.0",
+  "version": "v1.4.0",
   "exp_name": "Design an alarm annunciator",
   "exp_short_name": "alarm-annunciator",
   "production": true,
